@@ -9,7 +9,7 @@ body {
     color: #fff;
     font-size: 15px;
     font-family: Poppins;
-    height: 320vh;
+    height: 300vh;
 }
 
 * {
@@ -282,7 +282,7 @@ h1{
     translateX(-11px);   
 }
 .footer img{
-    width: 500px;
+    width: 400px;
     filter: brightness(70%);
     transform: translateX(10px);
 }
