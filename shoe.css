@@ -282,7 +282,7 @@ h1{
     translateX(-11px);   
 }
 .footer img{
-    width: 700px;
+    width: 500px;
     filter: brightness(70%);
     transform: translateX(10px);
 }
